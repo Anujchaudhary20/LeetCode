@@ -11,4 +11,8 @@ Leet code problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anujchaudhary20/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Anujchaudhary20/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
