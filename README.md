@@ -7,6 +7,7 @@ Leet code problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anujchaudhary20/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ Leet code problem
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anujchaudhary20/LeetCode/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
