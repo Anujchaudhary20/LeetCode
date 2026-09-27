@@ -9,6 +9,7 @@ Leet code problem
 | [0001-two-sum](https://github.com/Anujchaudhary20/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anujchaudhary20/LeetCode/tree/master/0283-move-zeroes) |
+| [1200-minimum-absolute-difference](https://github.com/Anujchaudhary20/LeetCode/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@ Leet code problem
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anujchaudhary20/LeetCode/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/Anujchaudhary20/LeetCode/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
