@@ -10,6 +10,7 @@ Leet code problem
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anujchaudhary20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Anujchaudhary20/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anujchaudhary20/LeetCode/tree/master/0283-move-zeroes) |
 | [1200-minimum-absolute-difference](https://github.com/Anujchaudhary20/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Anujchaudhary20/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -22,11 +23,13 @@ Leet code problem
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anujchaudhary20/LeetCode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anujchaudhary20/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Anujchaudhary20/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anujchaudhary20/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
